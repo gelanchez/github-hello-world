@@ -1,2 +1,2 @@
 # github-hello-world
-GitHub hello world repository for testing.
+GitHub hello-world repository for testing.
